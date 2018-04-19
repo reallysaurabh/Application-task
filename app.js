@@ -14,9 +14,9 @@ var mongoose = require('mongoose');
 mongoose.Promise = global.Promise;
 
 // connect to MongoDB
-mongoose.connect('mongodb://localhost/todo-api')
+mongoose.connect('mongodb://localhost/application-task')
     .then(function(response){
-        console.log(response,'connection succesful');
+        // console.log(response,'connection succesful');
     })
     .catch(function(err){
         console.error(err);
@@ -26,7 +26,7 @@ var app = express();
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'ejs');
+app.set('view engine', 'jade');
 
 app.use(logger('dev'));
 app.use(bodyParser.json());
@@ -70,3 +70,4 @@ app.use(function(err, req, res, next) {
 
 
 module.exports = app;
+

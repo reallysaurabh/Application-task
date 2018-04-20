@@ -3,6 +3,8 @@
 - [x] Find top 5 named entities
 - [x] Find related news
 - [x] Mongo server setup done
+- [x] Sentiment Analysis Api deployed on server #1
+- [ ] React front end 
 
 #### Server ssh commands
 - Data collection and Analysis - ssh -i saurabh_aws.pem ubuntu@34.214.41.107
@@ -71,6 +73,7 @@ Application
     - POST | /tweet/:keyword | - to fetch top 5 tweets and return their sentiments. 
     - POST | /news/:keyword  | - to fetch top 5 news articles and return their sentiments.
      
+    I have used pm2 to monitor the app and restart it in case of failure.
 
 2. Put all your code, along with the MongoDB collection, in a GitHub repository and share the link with us. Also, maintain a README.md explaining your codebase and the approach you followed.
 

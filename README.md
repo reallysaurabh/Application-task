@@ -57,7 +57,8 @@ config/config.json
 1. Perform a Sentiment Analysis on the data collected in Step 1 and 3, and compare the twitter and news sentiments for the common named-entities. 
 
     Using [Aylien](https://aylien.com) api for sentiment analysis.
-
+    There is a limit to this api - Only 1000 requests available in one day.
+    
 2. You should also perform temporal, spatial and content analysis on the collected data, to answer questions such as Who posted the data, What was it about, When was it posted, from Where was it posted etc.
 
 

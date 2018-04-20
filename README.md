@@ -52,6 +52,9 @@ config/config.json
 #### Analysis
 
 1. Perform a Sentiment Analysis on the data collected in Step 1 and 3, and compare the twitter and news sentiments for the common named-entities. 
+
+    Using [Aylien](https://aylien.com) api for sentiment analysis.
+
 2. You should also perform temporal, spatial and content analysis on the collected data, to answer questions such as Who posted the data, What was it about, When was it posted, from Where was it posted etc.
 
 
@@ -60,6 +63,15 @@ config/config.json
 Application
 
 1. Set up a web application on Heroku or Digital Ocean Droplet with a user interface where we can input a named-entity and get the comparison between the news and twitter sentiments as an output.
+    
+    The App is an API driven architecture where an api is deployed on a server and the front end is written is React.
+    
+    API doc:
+    
+    - POST | /tweet/:keyword | - to fetch top 5 tweets and return their sentiments. 
+    - POST | /news/:keyword  | - to fetch top 5 news articles and return their sentiments.
+     
+
 2. Put all your code, along with the MongoDB collection, in a GitHub repository and share the link with us. Also, maintain a README.md explaining your codebase and the approach you followed.
 
 

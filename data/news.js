@@ -9,13 +9,22 @@ const Keywords = require("../models/Keywords");
 // load mongoose package
 var mongoose = require('mongoose');
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://localhost/application-task')
+
+var connectionString =  'mongodb://'+config.mongodb.username+':'+config.mongodb.password+'@'+
+    config.mongodb.host+':'+config.mongodb.port+'/application-task';
+
+// var connectionString = 'mongodb://localhost:27017/Application-task';
+console.log(connectionString);
+
+
+mongoose.connect(connectionString)
     .then(function(){
         console.log('connection succesful');
     })
     .catch(function(err){
         console.error(err);
     });
+
 
 Keywords.find(function (err, keyword) {
    if(err){

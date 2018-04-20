@@ -69,7 +69,7 @@ router.post('/news/:keyword', function (req, res) {
         sortBy: 'relevancy'
     }).then(function(response) {
 
-        var newsArticles = response.articles.slice(0, 6);
+        var newsArticles = response.articles.slice(0, 5);
         async.forEach(newsArticles, function (news, callback){
             textapi.sentiment({
                 'text': news.description

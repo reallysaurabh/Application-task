@@ -1,13 +1,19 @@
 var Twitter = require("twitter");
 const config = require("../config/config");
 const Tweet = require("../models/Tweet");
+
 // load mongoose package
 var mongoose = require('mongoose');
-// Use native Node promises
 mongoose.Promise = global.Promise;
 
-// connect to MongoDB
-mongoose.connect('mongodb://localhost/application-task')
+var connectionString =  'mongodb://'+config.mongodb.username+':'+config.mongodb.password+'@'+
+    config.mongodb.host+':'+config.mongodb.port+'/application-task';
+
+// var connectionString = 'mongodb://localhost:27017/Application-task';
+console.log(connectionString);
+
+
+mongoose.connect(connectionString)
     .then(function(){
         console.log('connection succesful');
     })
@@ -16,12 +22,11 @@ mongoose.connect('mongodb://localhost/application-task')
     });
 
 var client = new Twitter({
-    consumer_key: config.twitter.consumerKeyey,
+    consumer_key: config.twitter.consumerKey,
     consumer_secret: config.twitter.consumerSecret,
     access_token_key: config.twitter.accessTokenKey,
     access_token_secret: config.twitter.accessTokenSecret
 });
-
 
 
 // You can also get the stream in a callback if you prefer.

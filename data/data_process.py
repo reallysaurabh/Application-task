@@ -7,7 +7,9 @@ import nltk
 #nltk.download('averaged_perceptron_tagger')
 
 client = MongoClient()
-client = MongoClient('mongodb://localhost:27017/')
+
+#client = MongoClient('mongodb://<user>:<pass>@52.41.194.58:27017/application-task')
+
 db = client['application-task']
 collection = db.tweets
 

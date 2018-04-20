@@ -62,7 +62,7 @@ config/config.json
 
 3. Report these results you found in the steps 5 & 6 using graphs. Brownie points for cool interactive visualisations.
 
-Application
+#### Application
 
 1. Set up a web application on Heroku or Digital Ocean Droplet with a user interface where we can input a named-entity and get the comparison between the news and twitter sentiments as an output.
     
@@ -74,6 +74,13 @@ Application
     - POST | /news/:keyword  | - to fetch top 5 news articles and return their sentiments.
      
     I have used pm2 to monitor the app and restart it in case of failure.
+
+    ##### Deployments
+    
+    1. API
+    2. MongoDB server
+    3. Front End
+    4. Data Collection and Visualization
 
 2. Put all your code, along with the MongoDB collection, in a GitHub repository and share the link with us. Also, maintain a README.md explaining your codebase and the approach you followed.
 

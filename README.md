@@ -6,7 +6,7 @@
 
 #### Server ssh commands
 - Data collection and Analysis - ssh -i saurabh_aws.pem ubuntu@34.214.41.107
-- MongoDB server - ssh -i saurabh_aws.pem ubuntu@34.213.242.21
+- MongoDB server - ssh -i saurabh_aws.pem ubuntu@52.41.194.58
 - saurabh_aws.pem - available in config folder
 
 

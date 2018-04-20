@@ -6,21 +6,6 @@ var bodyParser = require('body-parser');
 
 var routes = require('./routes/index');
 
-// load mongoose package
-var mongoose = require('mongoose');
-
-// Use native Node promises
-mongoose.Promise = global.Promise;
-
-// connect to MongoDB
-mongoose.connect('mongodb://localhost/application-task')
-    .then(function(response){
-        // console.log(response,'connection succesful');
-    })
-    .catch(function(err){
-        console.error(err);
-    });
-
 var app = express();
 
 // view engine setup

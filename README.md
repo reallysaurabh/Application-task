@@ -4,11 +4,12 @@
 - [x] Find related news
 - [x] Mongo server setup done
 - [x] Sentiment Analysis Api deployed on server #1
-- [ ] React front end 
+- [x] React front end 
 
 #### Server ssh commands
 - Data collection and Analysis - ssh -i saurabh_aws.pem ubuntu@34.214.41.107
 - MongoDB server - ssh -i saurabh_aws.pem ubuntu@52.41.194.58
+- React server - ssh -i saurabh_aws.pem ec2-user@34.217.148.65
 - saurabh_aws.pem - available in config folder
 
 

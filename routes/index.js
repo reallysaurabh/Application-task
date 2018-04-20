@@ -48,6 +48,13 @@ router.post('/tweet/:keyword', function(req, res) {
                     callback();
                 });
             }, function (call) {
+                if(twitterData.length === 0){
+                    twitterData.push({
+                        text: "No results found for the keyword",
+                        polarity: "",
+                        polarity_confidence: 0
+                    });
+                }
                 res.send({
                     success: true,
                     twitterData: twitterData
@@ -82,6 +89,13 @@ router.post('/news/:keyword', function (req, res) {
                 callback();
             });
         }, function (call) {
+            if(newsData.length === 0){
+                newsData.push({
+                    text: "No results found for the keyword",
+                    polarity: "",
+                    polarity_confidence: 0
+                });
+            }
             res.send({
                 success: true,
                 newsData: newsData

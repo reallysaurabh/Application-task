@@ -27,7 +27,7 @@
 
 #### 1. Collect a random sample of 10K tweets using the Twitter API and store them in a MongoDB instance.
     
-   - Run data/tweets.js file to fetch tweets and store it in Mongodb - Uses [twitter streaming api](https://developer.twitter.com/en/docs/tweets/sample-realtime/overview/GET_statuse_sample) to collect tweets.
+   - Run data/tweets.js with node - file to fetch tweets and store it in Mongodb - Uses [twitter streaming api](https://developer.twitter.com/en/docs/tweets/sample-realtime/overview/GET_statuse_sample) to collect tweets.
     
 #### 2. From these collected tweets, parse the 5 most frequently occurring named-entities (can be a name, person, location, product etc.).
 
@@ -35,14 +35,14 @@
    ```python
    client = MongoClient('mongodb://<username>:<password>@52.41.194.58:27017/application-task')
    ```
-   - Run data/getKeyword.py - Uses nltk and pymongo with Python to extract top 10 named-entities. Collects all the tweets, forms a bag of words by traversing through the text filtering out the singular proper nouns (NNP) and plural proper nouns (NNPS). Finally, counts the appearance of each word.
+   - Run data/getKeyword.py with Python3 - Uses nltk and pymongo with Python to extract top 10 named-entities. Collects all the tweets, forms a bag of words by traversing through the text filtering out the singular proper nouns (NNP) and plural proper nouns (NNPS). Finally, counts the appearance of each word.
    - NLTK's word datasets used: punkt and averaged_perceptron_tagger
    - Write those keywords back to mongodb. 
       
 
 #### 3. Now, collect the latest news from various news source APIs featuring the named-entities you got from Step 2 (use at least one other API/library other than Twitter's to collect this data).
        
-   - Run data/news.js - Fetch the keywords from mongodb. Iterate through the keywords to fetch top 20 news articles from the [News api](https://newsapi.org/) based on the keyword using [Everything api](https://newsapi.org/docs/endpoints/everything) and write them back to mongodb.
+   - Run data/news.js with node - Fetch the keywords from mongodb. Iterate through the keywords to fetch top 20 news articles from the [News api](https://newsapi.org/) based on the keyword using [Everything api](https://newsapi.org/docs/endpoints/everything) and write them back to mongodb.
     
 #### db_collections
    - The directory contains all the mongodb collections (data collected in above steps) exported in csv and json formats.

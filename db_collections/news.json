@@ -1,0 +1,1820 @@
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384591"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "BBC iPlayer 4.48.1.6 by BBC", 
+    "description" : "The post BBC iPlayer 4.48.1.6 by BBC appeared first on APKMirror.", 
+    "publishedAt" : ISODate("2018-04-17T15:50:56.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Apkmirror.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384592"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "BBC iPlayer 4.48.0.3 by BBC", 
+    "description" : "The post BBC iPlayer 4.48.0.3 by BBC appeared first on APKMirror.", 
+    "publishedAt" : ISODate("2018-04-12T17:40:09.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Apkmirror.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384593"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "BBC iPlayer 4.46.0.6 by BBC", 
+    "description" : "The post BBC iPlayer 4.46.0.6 by BBC appeared first on APKMirror.", 
+    "publishedAt" : ISODate("2018-03-19T16:31:15.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Apkmirror.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384594"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "BBC iPlayer 4.44.1.3 by BBC", 
+    "description" : "The post BBC iPlayer 4.44.1.3 by BBC appeared first on APKMirror.", 
+    "publishedAt" : ISODate("2018-02-09T21:25:44.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Apkmirror.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384595"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "BBC iPlayer 4.44.0.3 by BBC", 
+    "description" : "The post BBC iPlayer 4.44.0.3 by BBC appeared first on APKMirror.", 
+    "publishedAt" : ISODate("2018-02-08T17:46:36.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Apkmirror.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384596"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "BBC iPlayer 4.47.0.3 by BBC", 
+    "description" : "The post BBC iPlayer 4.47.0.3 by BBC appeared first on APKMirror.", 
+    "publishedAt" : ISODate("2018-04-03T15:35:13.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Apkmirror.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384597"), 
+    "keyword" : "BBC", 
+    "author" : "Menachem Krinsky", 
+    "title" : "BBC", 
+    "description" : "Identity exploration for BBC.\n\n--\nWorking on something new? I would love to hear from you. Email me at hello@krinskydesign.com \nFollow my work on Instagram", 
+    "publishedAt" : ISODate("2018-02-08T20:18:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Dribbble.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384598"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "BBC iPlayer 4.43.0.9 by BBC", 
+    "description" : "The post BBC iPlayer 4.43.0.9 by BBC appeared first on APKMirror.", 
+    "publishedAt" : ISODate("2018-01-31T15:37:08.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Apkmirror.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384599"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "BBC iPlayer 4.42.0.6 by BBC", 
+    "description" : "The post BBC iPlayer 4.42.0.6 by BBC appeared first on APKMirror.", 
+    "publishedAt" : ISODate("2018-01-23T18:12:18.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Apkmirror.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38459a"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "BBC - Contagion! The BBC Four Pandemic (2018)", 
+    "description" : "", 
+    "publishedAt" : ISODate("2018-03-25T02:13:52.000+0000"), 
+    "source" : {
+        "id" : "google-news", 
+        "name" : "Google News"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38459b"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "BBC - Contagion! The BBC Four Pandemic (2018)", 
+    "description" : "", 
+    "publishedAt" : ISODate("2018-03-25T02:13:52.000+0000"), 
+    "source" : {
+        "id" : "google-news", 
+        "name" : "Google News"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38459c"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "BBC Media Player 3.1.12 by BBC", 
+    "description" : "The post BBC Media Player 3.1.12 by BBC appeared first on APKMirror.", 
+    "publishedAt" : ISODate("2018-02-03T21:31:05.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Apkmirror.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38459d"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "BBC iPlayer Radio 2.15.2.10976 by BBC", 
+    "description" : "The post BBC iPlayer Radio 2.15.2.10976 by BBC appeared first on APKMirror.", 
+    "publishedAt" : ISODate("2018-02-15T22:49:10.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Apkmirror.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38459e"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "BBC Three \"Perfect day\" by BBC Creative", 
+    "description" : "Two years after moving online BBC Three offers a fresh take on Lou Reed's classic song Perfect Day with a film starring the young voices who shape the channel.", 
+    "publishedAt" : ISODate("2018-03-12T11:20:30.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Campaignlive.co.uk"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38459f"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "bbc foxy", 
+    "description" : "this is drawing of my friend bbc foxy&nbsp;", 
+    "publishedAt" : ISODate("2018-04-10T01:53:50.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845a0"), 
+    "keyword" : "BBC", 
+    "author" : "BBC Sport", 
+    "title" : "BBC Sport", 
+    "description" : "BBC Sport Mobile - live sports coverage, breaking news, results, video and analysis on Football, Formula 1, Cricket, Rugby Union, Rugby League, Tennis, Golf and all the main world sports, plus major events like the Olympic Games.", 
+    "publishedAt" : ISODate("2018-04-17T02:32:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Bbc.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845a1"), 
+    "keyword" : "BBC", 
+    "author" : "UNHCR, the UN Refugee Agency", 
+    "title" : "BBC News", 
+    "description" : "Seven-year-old Mustafa has been left orphaned and disabled because of the war in Syria. But he keeps on smiling. ", 
+    "publishedAt" : ISODate("2018-04-06T15:46:34.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Facebook.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845a2"), 
+    "keyword" : "BBC", 
+    "author" : null, 
+    "title" : "MERLIN (BBC)", 
+    "description" : " STORE ✨ Instagram • Tumblr • Facebook • Youtube I usually draw for my family and friends, but this time it's a self gift . I've been re-watching \"Merlin\" with my mom and I had to draw something about it because it's one of my favorites TV shows (even if …", 
+    "publishedAt" : ISODate("2018-04-03T17:52:09.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845a3"), 
+    "keyword" : "BBC", 
+    "author" : "ivan", 
+    "title" : "BBC: Ballad", 
+    "description" : "Campaign addresses the idea of the BBC being an unbiased journalist station, showing both sides of the story, in this case of virtual reality. balada.jpg", 
+    "publishedAt" : ISODate("2018-02-08T23:02:29.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Adsoftheworld.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845a4"), 
+    "keyword" : "BBC", 
+    "author" : "ivan", 
+    "title" : "BBC: Beach", 
+    "description" : "Campaign addresses the idea of the BBC being an unbiased journalist station, showing both sides of the story, in this case of virtual reality. praia_0.jpg", 
+    "publishedAt" : ISODate("2018-02-08T23:05:35.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Adsoftheworld.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845a5"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Theresa 20180221", 
+    "description" : "", 
+    "publishedAt" : ISODate("2018-02-22T18:08:10.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845a6"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Theresa 20180218", 
+    "description" : "", 
+    "publishedAt" : ISODate("2018-02-18T07:37:58.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845a7"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Theresa 20180213", 
+    "description" : "", 
+    "publishedAt" : ISODate("2018-02-13T17:21:22.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845a8"), 
+    "keyword" : "Theresa", 
+    "author" : "Toby Guise", 
+    "title" : "Theresa Mayday", 
+    "description" : "Britain’s international relations have acquired something of Paris in the spring of...", 
+    "publishedAt" : ISODate("2018-02-06T04:01:47.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Takimag.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845a9"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Theresa 20180123", 
+    "description" : "", 
+    "publishedAt" : ISODate("2018-01-23T14:36:54.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845aa"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Theresa McKinney", 
+    "description" : "", 
+    "publishedAt" : ISODate("2018-03-04T04:51:50.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845ab"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Theresa 28", 
+    "description" : "Model: Theresa Manchester :&nbsp; &nbsp;www&nbsp; &nbsp; &nbsp;mm Photography:&nbsp; &nbsp;mm&nbsp; &nbsp; &nbsp;&nbsp;500px", 
+    "publishedAt" : ISODate("2018-04-05T11:50:03.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845ac"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Davidsworld Theresa", 
+    "description" : "This is the last character of Davidsworld.So this is Davidsworldd Theresa.I hope you like it!Next I'll make AU's of Sydsworld. AU by me Art by me Davidsworld(c)Me", 
+    "publishedAt" : ISODate("2018-03-12T01:38:33.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845ad"), 
+    "keyword" : "Theresa", 
+    "author" : "Daniel Bogan", 
+    "title" : "Theresa Duringer", 
+    "description" : "Game developer, designer (Temple Gates Games)", 
+    "publishedAt" : ISODate("2018-04-03T00:00:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Usesthis.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845ae"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Theresa Plath", 
+    "description" : "Mother of Justin and Jordan Plath and wife of John Plath. At the start of the series, she is 42-years-old. As a child, her political interests were developed by her father who constantly explained various parts of history to her. In the nine years she spent o…", 
+    "publishedAt" : ISODate("2018-03-09T02:07:38.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845af"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Theresa 20180128", 
+    "description" : "", 
+    "publishedAt" : ISODate("2018-01-28T08:22:57.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845b0"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Theresa Apocalypse", 
+    "description" : "", 
+    "publishedAt" : ISODate("2018-04-19T16:38:24.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845b1"), 
+    "keyword" : "Theresa", 
+    "author" : "Theresa May", 
+    "title" : "Theresa May Commons Statement on Salisbury incident, by Theresa May", 
+    "description" : "With permission, Mr Speaker, I would like to make a Statement on the response of the Russian government to the incident in Salisbury. First, on behalf of the whole House, let me pay tribute once again to the bravery and professionalism of all the emergency se…", 
+    "publishedAt" : ISODate("2018-03-14T08:12:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Voltairenet.org"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845b2"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Theresa Ivancik 2", 
+    "description" : "", 
+    "publishedAt" : ISODate("2018-02-19T00:17:28.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845b3"), 
+    "keyword" : "Theresa", 
+    "author" : "Theresa May", 
+    "title" : "Theresa May statement on Syria, by Theresa May", 
+    "description" : "This evening I have authorised British armed forces to conduct co-ordinated and targeted strikes to degrade the Syrian Regime's chemical weapons capability and deter their use. We are acting together with our American and French allies. In Douma, last Saturda…", 
+    "publishedAt" : ISODate("2018-04-14T10:42:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Voltairenet.org"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845b4"), 
+    "keyword" : "Theresa", 
+    "author" : "Theresa May", 
+    "title" : "Theresa May's press conference statement on Syria, by Theresa May", 
+    "description" : "Last night British, French and American armed forces conducted co-ordinated and targeted strikes to degrade the Syrian Regime's chemical weapons capability and deter their use. For the UK's part four RAF Tornado GR 4's launched storm shadow missiles at a mili…", 
+    "publishedAt" : ISODate("2018-04-14T10:52:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Voltairenet.org"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845b5"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Theresa Courtney Clothes Swap", 
+    "description" : "Been a while since I drew something from Total Drama, or even Fugget About It. I decided to go with Theresa and Courtney since they share the same voice actress.", 
+    "publishedAt" : ISODate("2018-03-04T02:26:06.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845b6"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Theresa and Jay romance", 
+    "description" : "This is my artwork of Jay and Theresa are having a romantic relationship with each other.&nbsp;", 
+    "publishedAt" : ISODate("2018-03-29T02:54:23.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845b7"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "Theresa And Donald2", 
+    "description" : "", 
+    "publishedAt" : ISODate("2018-01-31T16:53:13.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845b8"), 
+    "keyword" : "Theresa", 
+    "author" : null, 
+    "title" : "The new Theresa Ivancik", 
+    "description" : "", 
+    "publishedAt" : ISODate("2018-03-24T17:52:26.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845cd"), 
+    "keyword" : "Brexit", 
+    "author" : "deannscott1996", 
+    "title" : "Brexit,Brexit", 
+    "description" : "Hello everyone I came to England with my parents when I was 8 years old now I'm 19 most of my family went back to Poland last year I stayed in England because my partner is British and we have a baby together I'm so scared brexit will split us up I know I can…", 
+    "publishedAt" : ISODate("2018-04-11T08:17:29.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Unity.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845ce"), 
+    "keyword" : "Brexit", 
+    "author" : "Robert Hutton", 
+    "title" : "Brexit Bulletin: Brexit Fever", 
+    "description" : "Sign up to receive the Brexit Bulletin in your inbox, and follow @Brexit on Twitter.", 
+    "publishedAt" : ISODate("2018-04-04T06:36:04.000+0000"), 
+    "source" : {
+        "id" : "bloomberg", 
+        "name" : "Bloomberg"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845cf"), 
+    "keyword" : "Brexit", 
+    "author" : "Darragh McManus", 
+    "title" : "The Divil's Dictionary: From 'Notions' to 'The Pain' - the words and phrases that capture the Irish way of life", 
+    "description" : "The ongoing Brexit snafu has introduced a bucket-load of buzzwords and neologisms to English (including, of course, 'Brexit' itself). Hard/soft Brexit, regrexit, Italexit, remoaners, strong and stable, Article 50, Brexit means Brexit, regulatory alignment, Br…", 
+    "publishedAt" : ISODate("2018-04-12T01:30:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Independent.ie"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845d0"), 
+    "keyword" : "Brexit", 
+    "author" : "Darragh McManus", 
+    "title" : "The Divil's Dictionary", 
+    "description" : "The ongoing Brexit snafu has introduced a bucket-load of buzzwords and neologisms to English (including, of course, 'Brexit' itself). Hard/soft Brexit, regrexit, Italexit, remoaners, strong and stable, Article 50, Brexit means Brexit, regulatory alignment, Br…", 
+    "publishedAt" : ISODate("2018-04-12T01:30:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Independent.ie"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845d1"), 
+    "keyword" : "Brexit", 
+    "author" : "Presented by Jon Henley with Dan Robertsand Jennifer Rankin produced by Rowan Slaney", 
+    "title" : "Can Brexit be reversed? Brexit means... podcast", 
+    "description" : "Jon Henley and the team look back at the past few weeks of Brexit and ask: can it be reversed? Acast, Apple Podcasts, Soundcloud, Mixcloud, Audioboom. Join the discussion on Facebook and Twitter and email us at podcasts@theguardian.com As technical talks on t…", 
+    "publishedAt" : ISODate("2018-04-18T10:37:11.000+0000"), 
+    "source" : {
+        "id" : "the-guardian-au", 
+        "name" : "The Guardian (AU)"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845d2"), 
+    "keyword" : "Brexit", 
+    "author" : "Darragh McManus", 
+    "title" : "The Divil's Dictionary - words and phrases that capture the Irish way of life", 
+    "description" : "The ongoing Brexit snafu has introduced a bucket-load of buzzwords and neologisms to English (including, of course, 'Brexit' itself). Hard/soft Brexit, regrexit, Italexit, remoaners, strong and stable, Article 50, Brexit means Brexit, regulatory alignment, Br…", 
+    "publishedAt" : ISODate("2018-04-12T01:30:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Independent.ie"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845d3"), 
+    "keyword" : "Brexit", 
+    "author" : "RTÉ:Ireland", 
+    "title" : "Brexit", 
+    "description" : "Jim Waterson, Political Editor BuzzFeed News, John Redwood, Conservtive MP for Wokingham and Brexiteer", 
+    "publishedAt" : ISODate("2018-01-30T12:00:00.000+0000"), 
+    "source" : {
+        "id" : "rte", 
+        "name" : "RTE"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845d4"), 
+    "keyword" : "Brexit", 
+    "author" : "RTÉ:Ireland", 
+    "title" : "Brexit", 
+    "description" : "Marian is joined on the line by Brexit Correspondent for the Guardian - Lisa O'Carroll.", 
+    "publishedAt" : ISODate("2018-03-04T12:00:00.000+0000"), 
+    "source" : {
+        "id" : "rte", 
+        "name" : "RTE"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845d5"), 
+    "keyword" : "Brexit", 
+    "author" : "RTÉ:Ireland", 
+    "title" : "Brexit", 
+    "description" : "Nick Clegg, Former Leader of the Liberal Democrats", 
+    "publishedAt" : ISODate("2018-03-21T12:00:00.000+0000"), 
+    "source" : {
+        "id" : "rte", 
+        "name" : "RTE"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845d6"), 
+    "keyword" : "Brexit", 
+    "author" : "RTÉ:Ireland", 
+    "title" : "Brexit", 
+    "description" : "European agriculture commissioner Phil Hogan responds to Teresa May's EU exit strategy speech and the EU's reaction to proposed import tariffs by the United States.", 
+    "publishedAt" : ISODate("2018-03-04T12:00:00.000+0000"), 
+    "source" : {
+        "id" : "rte", 
+        "name" : "RTE"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845d7"), 
+    "keyword" : "Brexit", 
+    "author" : "Emma Ross-Thomas", 
+    "title" : "Brexit Bulletin: And Now to Trade", 
+    "description" : "Sign up to receive the Brexit Bulletin in your inbox, and follow @Brexit on Twitter", 
+    "publishedAt" : ISODate("2018-04-13T06:30:22.000+0000"), 
+    "source" : {
+        "id" : "bloomberg", 
+        "name" : "Bloomberg"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845d8"), 
+    "keyword" : "Brexit", 
+    "author" : "Emma Ross-Thomas", 
+    "title" : "Brexit Bulletin: Britain’s New Friend", 
+    "description" : "Sign up to receive the Brexit Bulletin in your inbox, and follow @Brexit on Twitter.", 
+    "publishedAt" : ISODate("2018-04-10T06:30:27.000+0000"), 
+    "source" : {
+        "id" : "bloomberg", 
+        "name" : "Bloomberg"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845d9"), 
+    "keyword" : "Brexit", 
+    "author" : "David Goodman, Andre Tartar", 
+    "title" : "The Growing U.K. Economy Isn’t as Strong as It Looks", 
+    "description" : "Follow @Brexit on Twitter, join our  Facebook group and sign up to our Brexit Bulletin.", 
+    "publishedAt" : ISODate("2018-04-12T04:00:11.000+0000"), 
+    "source" : {
+        "id" : "bloomberg", 
+        "name" : "Bloomberg"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845da"), 
+    "keyword" : "Brexit", 
+    "author" : "Emma Ross-Thomas", 
+    "title" : "Brexit Bulletin: Barnier’s Way Back", 
+    "description" : "Sign up to receive the Brexit Bulletin in your inbox, and follow @Brexit on Twitter.", 
+    "publishedAt" : ISODate("2018-04-11T06:30:13.000+0000"), 
+    "source" : {
+        "id" : "bloomberg", 
+        "name" : "Bloomberg"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845db"), 
+    "keyword" : "Brexit", 
+    "author" : "Nick Miller", 
+    "title" : "Is this old passport black or blue? The answer explains Brexit", 
+    "description" : "The row over the colour of Britain's post-Brexit passports is really about Brexit itself.", 
+    "publishedAt" : ISODate("2018-04-18T23:35:05.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Smh.com.au"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845dc"), 
+    "keyword" : "Brexit", 
+    "author" : "Emma Ross-Thomas", 
+    "title" : "Brexit Bulletin: The Road to Another Referendum", 
+    "description" : "Sign up to receive the Brexit Bulletin in your inbox, and follow @Brexit on Twitter.", 
+    "publishedAt" : ISODate("2018-04-09T06:30:34.000+0000"), 
+    "source" : {
+        "id" : "bloomberg", 
+        "name" : "Bloomberg"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845dd"), 
+    "keyword" : "Brexit", 
+    "author" : "Ian Wishart", 
+    "title" : "Brexit Bulletin: When Will the Fog Clear?", 
+    "description" : "Sign up to receive the Brexit Bulletin in your inbox, and follow @Brexit on Twitter.", 
+    "publishedAt" : ISODate("2018-04-12T06:30:35.000+0000"), 
+    "source" : {
+        "id" : "bloomberg", 
+        "name" : "Bloomberg"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845de"), 
+    "keyword" : "Brexit", 
+    "author" : "RTÉ:Ireland", 
+    "title" : "Brexit", 
+    "description" : "Theresa May and her cabinet hunker down in Chequers today to agree a Brexit strategy, is genuine consensus really on the cards? John Rentoul of the Independent spoke to Drivetime this evening.", 
+    "publishedAt" : ISODate("2018-02-22T12:00:00.000+0000"), 
+    "source" : {
+        "id" : "rte", 
+        "name" : "RTE"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845df"), 
+    "keyword" : "Brexit", 
+    "author" : "RTÉ:Ireland", 
+    "title" : "Brexit", 
+    "description" : "Gregory Campbell, DUP MP for East Derry", 
+    "publishedAt" : ISODate("2018-02-28T12:00:00.000+0000"), 
+    "source" : {
+        "id" : "rte", 
+        "name" : "RTE"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845e0"), 
+    "keyword" : "Brexit", 
+    "author" : "RTÉ:Ireland", 
+    "title" : "Brexit", 
+    "description" : "The Taoiseach Leo Veradkar, has cautioned Theresa May and her British Government not to renege in any way on the preliminary deal agreed with the EU in December. Westminster by the Chief Political Commentator with the Independent, John Rentoul and Minister of…", 
+    "publishedAt" : ISODate("2018-02-07T12:00:00.000+0000"), 
+    "source" : {
+        "id" : "rte", 
+        "name" : "RTE"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845e1"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "Biz Pac Review", 
+    "title" : "Discrimination? She\u0092s beyond stunning, but Melania Trump\u0092s being snubbed by women\u0092s magazines", 
+    "description" : "Actor James Woods created quite the stir last week when he made what has proved to be a spot on observation about first lady Melania Trump. Responding to weeping late night comedian Jimmy Kimmel insulting the first lady by mocking her Slovenian accent, the ou…", 
+    "publishedAt" : ISODate("2018-04-16T22:44:58.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Freerepublic.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845e2"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "Cristina Laila", 
+    "title" : "James Woods Unleashes on Anti-American Democrats: ‘Send the Illegal Aliens to Schumer’s House’", 
+    "description" : "The Democrats are the enemy of the American people. They side with illegal aliens over our own military servicemen and women. Anti-American Senate Minority Leader Chuck Schumer (D-NY) shut down the government Friday night as Senate Dems dug in their heels on …", 
+    "publishedAt" : ISODate("2018-01-22T20:41:37.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Thegatewaypundit.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845e3"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "Derek Willis", 
+    "title" : "@auctnr1 -- Deleted after 4 hours 13 minutes ago", 
+    "description" : "RT @RealJamesWoods: Absolutely brilliant essay. When I got a cancer diagnosis two days before Christmas several years ago, my frail, elderl…", 
+    "publishedAt" : ISODate("2018-01-29T09:26:31.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Propublica.org"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845e4"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "Zack Sharf", 
+    "title" : "James Woods Hates the Academy’s New Rule for Reporting Misconduct: ‘Pure McCarthyism. The Blacklist All Over Again’", 
+    "description" : "\"You can now be blacklisted from The Academy by a whisper...\" Woods wrote after the group announced updated conduct rules.", 
+    "publishedAt" : ISODate("2018-01-29T21:57:40.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Indiewire.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845e5"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "John Nolte", 
+    "title" : "James Woods Blasts Trump, ‘RINO Wimps’ Over Omnibus Budget Surrender", 
+    "description" : "Two-time Oscar nominee James Woods blasted congressional Republicans as \"RINO wimps\" over the just-passed $1.3 trillion omnibus spending bill.", 
+    "publishedAt" : ISODate("2018-03-23T15:03:33.000+0000"), 
+    "source" : {
+        "id" : "breitbart-news", 
+        "name" : "Breitbart News"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845e6"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "Andrew Wyrich", 
+    "title" : "No, Kamala Harris didn’t threaten to kill Trump—despite what conservatives say", 
+    "description" : "Sen. Kamala Harris (D-Calif.) is drawing criticism from right-leaning internet users after she laughed at a joke on during an appearance on the Ellen Degeneres Show on Wednesday.", 
+    "publishedAt" : ISODate("2018-04-06T19:22:07.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Dailydot.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845e7"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : null, 
+    "title" : "James Woods Goes After Vampire Diaries Producer Julie Plec For Train Tweet", 
+    "description" : "Left: the tragic scene where a driver was killed and others seriously injured. Right: response by #VampireDiaries executive producer @julieplec pic.twitter.com/VpnZs3RLhr — James Woods (@RealJamesWoods) February 1, 2018 Julie Plec, producer of The Vampire Dia…", 
+    "publishedAt" : ISODate("2018-02-02T04:32:30.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Livejournal.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845e8"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "BizPac Review", 
+    "title" : "James Woods NAILS \u0091all DACA is about\u0092 in one explosive tweet, and it\u0092s gone viral", 
+    "description" : "Nothing quite gets to the root of an issue like a James Woods tweet. The fate of 800,000 to upwards of 3 million (now we\u0092re told) Deferred Action for Childhood Arrivals recipients, or so-called \u0093DREAMers,\u0094 has the American political landscape on fire of late.…", 
+    "publishedAt" : ISODate("2018-01-27T16:00:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Freerepublic.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845e9"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "Virginia Kruta", 
+    "title" : "Sen. Kamala Harris Takes Aim At Trump, Takes Out Her Own State By Accident", 
+    "description" : "'Who wants to tell her?'", 
+    "publishedAt" : ISODate("2018-04-05T20:17:48.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Dailycaller.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845ea"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "Jerome Hudson", 
+    "title" : "James Woods: Former Hollywood Foreign Press Association President Philip Berk Blacklisted Me over Hillary Clinton", 
+    "description" : "Actor James Woods took to Twitter on Thursday and claimed that he was blacklisted by a former president of the powerful Hollywood Foreign Press Association after he refused to support failed Democratic presidential candidate Hillary Clinton.", 
+    "publishedAt" : ISODate("2018-02-23T00:36:42.000+0000"), 
+    "source" : {
+        "id" : "breitbart-news", 
+        "name" : "Breitbart News"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845eb"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : null, 
+    "title" : "James Woods: I was 'blacklisted' like Brendan Fraser but for my conservative politics", 
+    "description" : "James Woods: I was 'blacklisted' for my politics", 
+    "publishedAt" : ISODate("2018-02-23T20:22:47.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "King5.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845ec"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "USA TODAY, Maria Puente, USA TODAY", 
+    "title" : "James Woods: I was 'blacklisted' like Brendan Fraser but for my conservative politics", 
+    "description" : "Woods, who believes Brendan Fraser's story of career derailment after an alleged groping, claims same man blacklisted him because he's a conservative.", 
+    "publishedAt" : ISODate("2018-02-23T16:42:15.000+0000"), 
+    "source" : {
+        "id" : "usa-today", 
+        "name" : "USA Today"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845ed"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : null, 
+    "title" : "James Woods: I was 'blacklisted' like Brendan Fraser but for my conservative politics", 
+    "description" : "James Woods: I was 'blacklisted' for my politics", 
+    "publishedAt" : ISODate("2018-02-23T20:22:47.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Kgw.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845ee"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "Carlos Garcia", 
+    "title" : "A question mark just saved James Woods from a $3 million lawsuit – here’s how", 
+    "description" : "Actor and conservative James Woods beat a $3 million lawsuit – and he won because of one little question mark. Here’s what happened: During the…", 
+    "publishedAt" : ISODate("2018-01-27T04:12:51.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Theblaze.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845ef"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "-NO AUTHOR-", 
+    "title" : "James Woods in tweet war with ex-CIA director", 
+    "description" : "WASHINGTON – It’s not every day a former CIA director launches an explosive written fusillade at a sitting president. But that’s what happened when John Brennan, who served as CIA director during the Obama years, reacted to the firing by Attorney General Jeff…", 
+    "publishedAt" : ISODate("2018-03-19T00:15:40.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Wnd.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845f0"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "Kelen McBreen", 
+    "title" : "Melania Trump Hasn’t Been on a Single Magazine Cover Since Trump Took Office", 
+    "description" : "Michelle Obama, on the other hand, was featured on at least thirty magazine covers.", 
+    "publishedAt" : ISODate("2018-04-19T18:10:29.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Infowars.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845f1"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "Joshua Caplan", 
+    "title" : "James Woods Issues His Sternest Warning Yet To POTUS Trump Over Building The Wall", 
+    "description" : "On Monday, Hollywood star James Woods issued his sternest warning yet to President Donald Trump: Build 'The Wall' or you're toast in 2020.  'Dear Mr. President, your 2016 campaign and subsequent victory can be summed up in two words: The Wall. You haven’t del…", 
+    "publishedAt" : ISODate("2018-04-02T19:32:44.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Thegatewaypundit.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845f2"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : null, 
+    "title" : "Celebs react to companies cutting ties with the NRA", 
+    "description" : "U.S. companies that have partnered with the National Rifle Association to offer discounts and benefits to its members have begun to distance themselves from the gun lobbying group after the latest school shooting. Alyssa Milano, Misha Collins, Billy Eichner, …", 
+    "publishedAt" : ISODate("2018-02-25T05:39:52.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Livejournal.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845f3"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "BizPac Review", 
+    "title" : "James Woods wins Twitter gold by putting the FISA memo into context with one devastating tweet", 
+    "description" : "If anyone knows how to get the essence of an issue into 280 characters or less, it\u0092s James Woods. America continues to process Friday\u0092s release of the Nunes memo, a document that shows FISA warrants were obtained to spy on individuals associated with the Trum…", 
+    "publishedAt" : ISODate("2018-02-03T14:49:21.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Freerepublic.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845f4"), 
+    "keyword" : "RealJamesWoods", 
+    "author" : "Jamie White", 
+    "title" : "CNN Distances From Contributor Who Celebrated Deadly GOP Train Crash", 
+    "description" : "'God is working hard today to clean up the stink,' he said.", 
+    "publishedAt" : ISODate("2018-01-31T21:25:35.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Infowars.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845b9"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "Discord may may", 
+    "description" : "Original: tenhei.deviantart.com/art/Disc&hellip; Note that I change my name frequently so I'll try to update it when I do Made with DeviantArt muro", 
+    "publishedAt" : ISODate("2018-02-19T22:38:33.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845ba"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "May...", 
+    "description" : "Yes it's my Mary Sue is that I need to fix. I'm too lazy to give her bio sooo..", 
+    "publishedAt" : ISODate("2018-02-17T20:21:29.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845bb"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "May", 
+    "description" : "Acrylic, colored pencil, and spray paint on canvas 8x8\". Charles Morgenstern, 2018. Tumblr:&nbsp;tetramodal.tumblr.com Instagram:&nbsp;www.instagram.com/tetramodal/", 
+    "publishedAt" : ISODate("2018-01-29T23:18:53.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845bc"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "May", 
+    "description" : "Original Pokémon May is best. She was so cool to me when I was way younger, I used to draw her all the time when I first started drawing", 
+    "publishedAt" : ISODate("2018-02-27T00:22:55.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845bd"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "May", 
+    "description" : "Art Trade with !! Her side: smol-pop.deviantart.com/art/pr&hellip;", 
+    "publishedAt" : ISODate("2018-02-27T02:06:13.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845be"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "May", 
+    "description" : "Main chara of Mayhem Goddess&nbsp; webtoon www.webtoons.com/en/challenge/&hellip; tapas tapas.io/series/Mayhem-Goddess", 
+    "publishedAt" : ISODate("2018-01-23T03:20:26.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845bf"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "May!", 
+    "description" : "Finally a new OC! she's a birb OvO", 
+    "publishedAt" : ISODate("2018-02-08T00:19:21.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845c0"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "May", 
+    "description" : "Just a character of mine, trying out different coloring techniques, the red thing is her sweater!", 
+    "publishedAt" : ISODate("2018-02-21T08:39:33.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845c1"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "May", 
+    "description" : "Basically, if you don't know what Grenfell is... A big block of flats caught fire. Lots of people died and lots of people are homeless Its been nearly a year and government has basically done nothing to help them. I hope she gets off her lazy arse and do some…", 
+    "publishedAt" : ISODate("2018-03-22T19:08:51.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845c2"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "May", 
+    "description" : "Inspired by the month of May and created using azaleasdolls snow queen maker.", 
+    "publishedAt" : ISODate("2018-03-08T18:04:56.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845c3"), 
+    "keyword" : "May", 
+    "author" : "Farah", 
+    "title" : "May", 
+    "description" : "View on Dribbble", 
+    "publishedAt" : ISODate("2018-03-29T08:05:30.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Dribbble.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845c4"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "May!!!!!", 
+    "description" : "shes like 10 how does she do perfect eyeliner *thinking emoji* also please help minna is it spelt mei and may? please and thank you", 
+    "publishedAt" : ISODate("2018-04-04T19:50:22.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845c5"), 
+    "keyword" : "May", 
+    "author" : "Industi", 
+    "title" : "MAY", 
+    "description" : "View on Dribbble", 
+    "publishedAt" : ISODate("2018-04-20T10:19:02.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Dribbble.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845c6"), 
+    "keyword" : "May", 
+    "author" : "https://facebook.com/9gag", 
+    "title" : "May? Like, May I kiss you April?", 
+    "description" : "Tags: Smooth Recovery, by, Crisp Rat 2137 points, 39 comments.", 
+    "publishedAt" : ISODate("2018-03-30T05:40:02.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "9gag.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845c7"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "May", 
+    "description" : "I'm going to be sketching out some of the characters from Pokemon. Decided to start with the girl from my favourite generation", 
+    "publishedAt" : ISODate("2018-04-10T21:54:55.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845c8"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "may be", 
+    "description" : "This is the future great work, may be A large set of manes, tails. There will be horns and maybe wings&nbsp;&nbsp; &nbsp; Will go on sale in March&nbsp;", 
+    "publishedAt" : ISODate("2018-02-14T16:08:13.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845c9"), 
+    "keyword" : "May", 
+    "author" : "pratik", 
+    "title" : "May Flower", 
+    "description" : "View on Dribbble", 
+    "publishedAt" : ISODate("2018-02-27T05:59:50.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Dribbble.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845ca"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "May (OC)", 
+    "description" : "This is a quick drawing of May, without Riku (more on him in the future). She is my of and I can provide progress images in order to prove that I did draw this in case it is ever stolen. The art took around 1 hour and 55 minutes. It is my first drawing in the…", 
+    "publishedAt" : ISODate("2018-02-24T12:50:55.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845cb"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "Vanessa May", 
+    "description" : "from Demolish Fist", 
+    "publishedAt" : ISODate("2018-01-26T20:37:43.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845cc"), 
+    "keyword" : "May", 
+    "author" : null, 
+    "title" : "Caramelldasen - May", 
+    "description" : "WTF is She Doing?", 
+    "publishedAt" : ISODate("2018-01-25T09:06:11.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845f5"), 
+    "keyword" : "Politics", 
+    "author" : "Joe Albano", 
+    "title" : "Facebook: Politics, Politics, Politics!", 
+    "description" : "Sometimes politics are a part of investments and the data issue with Facebook is one of those times. Data breach? Did we come up with our own definitions overni", 
+    "publishedAt" : ISODate("2018-03-21T13:00:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Seekingalpha.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845f6"), 
+    "keyword" : "Politics", 
+    "author" : "davesaddiction", 
+    "title" : "Politics", 
+    "description" : "This is what U.S. politics has become: the RNC has published a website called LyinComey.com... [facepalm] I look forward to reading his book. Read more...", 
+    "publishedAt" : ISODate("2018-04-12T18:49:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Kinja.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845f7"), 
+    "keyword" : "Politics", 
+    "author" : "RTÉ:Ireland", 
+    "title" : "Politics", 
+    "description" : "Barry Lenihan reports on Fianna Fail shakiness over the Confidence and Supply Deal; whilst Kevin Doyle of the Irish Independent says Leo Varadkar is looking for people to rate his ministers.", 
+    "publishedAt" : ISODate("2018-04-10T12:00:00.000+0000"), 
+    "source" : {
+        "id" : "rte", 
+        "name" : "RTE"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845f8"), 
+    "keyword" : "Politics", 
+    "author" : "Hondoyota_CarBro", 
+    "title" : "Politics", 
+    "description" : "Buffer Goat Read more...", 
+    "publishedAt" : ISODate("2018-04-21T19:47:09.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Kinja.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845f9"), 
+    "keyword" : "Politics", 
+    "author" : "RTÉ:Ireland", 
+    "title" : "Politics", 
+    "description" : "Barry Lenihan reports on the latest indications as to when the Taoiseach will make his intentions known on the 8th Amendment, and also hears why Fianna Fail members are apparently ringing the Renua party.", 
+    "publishedAt" : ISODate("2018-01-24T12:00:00.000+0000"), 
+    "source" : {
+        "id" : "rte", 
+        "name" : "RTE"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845fa"), 
+    "keyword" : "Politics", 
+    "author" : "Tyler Cowen", 
+    "title" : "Politics", 
+    "description" : "“Shark charities flooded with donations after Trump says he hopes sharks die” The pointer is from Jillian Berman. The post Politics appeared first on Marginal REVOLUTION.", 
+    "publishedAt" : ISODate("2018-01-24T16:44:20.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Marginalrevolution.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845fb"), 
+    "keyword" : "Politics", 
+    "author" : "Alexander Ramsey", 
+    "title" : "Politics", 
+    "description" : "Unused ribbon type for a magazine cover.", 
+    "publishedAt" : ISODate("2018-04-06T22:37:56.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Dribbble.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845fc"), 
+    "keyword" : "Politics", 
+    "author" : "davesaddiction", 
+    "title" : "Politics", 
+    "description" : "Paul Ryan will not seek reelection. Wow... I thought Trump’s election signaled the end of the Republican Party, but... wow. Read more...", 
+    "publishedAt" : ISODate("2018-04-11T15:02:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Kinja.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845fd"), 
+    "keyword" : "Politics", 
+    "author" : "My citroen won't start", 
+    "title" : "POLITICS", 
+    "description" : "An interesting read, from one of my favorite new sources (The Atlantic being the second) Read more...", 
+    "publishedAt" : ISODate("2018-01-26T17:55:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Kinja.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845fe"), 
+    "keyword" : "Politics", 
+    "author" : "My citroen won't start", 
+    "title" : "POLITICS", 
+    "description" : "An interesting piece, a bit much fence sitting if I’m being honest, but I agree with everything on it. Read more...", 
+    "publishedAt" : ISODate("2018-02-06T18:46:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Kinja.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a3845ff"), 
+    "keyword" : "Politics", 
+    "author" : "Anil Padmanabhan", 
+    "title" : "Budget 2018: It’s all about politics, politics, politics", 
+    "description" : "Budget 2018 was undoubtedly a ‘Big Spend’ of Rs24.42 trillion with unambiguous political contours economic flourishes—walking the fine line between populism and development to address popular aspirations", 
+    "publishedAt" : ISODate("2018-02-01T23:06:57.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Livemint.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384600"), 
+    "keyword" : "Politics", 
+    "author" : null, 
+    "title" : "Politics", 
+    "description" : "New Stuff&nbsp; The topic is politics.&nbsp; Comment if you like. I am very thankful of every comment and attention. Kind Regards&nbsp; MSPC00", 
+    "publishedAt" : ISODate("2018-02-15T23:54:09.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Deviantart.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384601"), 
+    "keyword" : "Politics", 
+    "author" : "Cathy Young, Boston Globe", 
+    "title" : "How Campus Politics Hijacked American Politics", 
+    "description" : "Cathy Young, Boston Globe The campus-bred identitarian left is leaving its mark on society.", 
+    "publishedAt" : ISODate("2018-01-27T13:08:17.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Realclearpolitics.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384602"), 
+    "keyword" : "Politics", 
+    "author" : "Cathy Young", 
+    "title" : "How campus politics hijacked American politics", 
+    "description" : "The campus-bred identitarian left is leaving its mark on society.", 
+    "publishedAt" : ISODate("2018-01-26T19:15:09.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Bostonglobe.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384603"), 
+    "keyword" : "Politics", 
+    "author" : "bostonglobe.com", 
+    "title" : "How campus politics hijacked American politics", 
+    "description" : "The defense of free speech has always been a bedrock bipartisan principle. So it\u0092s unusual to hear a veteran liberal politician excuse campus outrage squads that shout down dissent. But that\u0092s exactly what former Vermont governor and Democratic National Commi…", 
+    "publishedAt" : ISODate("2018-02-06T17:13:20.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Freerepublic.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384604"), 
+    "keyword" : "Politics", 
+    "author" : "CHRIS HANNAY, MAYAZ ALAM AND JAMES KELLER", 
+    "title" : "Politics Briefing: The politics of Black Panther", 
+    "description" : "Also: Trudeau says Liberals regret invitation to Sikh extremist", 
+    "publishedAt" : ISODate("2018-02-22T13:36:11.000+0000"), 
+    "source" : {
+        "id" : "the-globe-and-mail", 
+        "name" : "The Globe And Mail"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384605"), 
+    "keyword" : "Politics", 
+    "author" : null, 
+    "title" : "BC-POLITICS", 
+    "description" : "Just because it's stayed cold longer doesn't mean birds aren't on their way. When seabirds don't shift their breeding times with ocean temperatures, it can cause the birds to be increasingly out of sync with their prey, making them more…", 
+    "publishedAt" : ISODate("2018-04-20T10:09:47.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Richmond.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384606"), 
+    "keyword" : "Politics", 
+    "author" : "Michael Szonyi", 
+    "title" : "Everyday politics", 
+    "description" : "Medieval Chinese conscription shows how ordinary people exercise influential political skills, even in a repressive state", 
+    "publishedAt" : ISODate("2018-04-11T10:00:50.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Aeon.co"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384607"), 
+    "keyword" : "Politics", 
+    "author" : "Michael Szonyi", 
+    "title" : "Everyday politics", 
+    "description" : "Imperial Chinese conscription shows how ordinary people exercise influential political skills, even in a repressive state", 
+    "publishedAt" : ISODate("2018-04-11T10:00:50.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Aeon.co"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384608"), 
+    "keyword" : "Politics", 
+    "author" : "The Hindu", 
+    "title" : "‘Fast’ politics", 
+    "description" : "The fast declared for Thursday, by the Prime Minister, BJP president Amit Shah and other party members can only be interpreted as a frantic step in th", 
+    "publishedAt" : ISODate("2018-04-11T19:06:28.000+0000"), 
+    "source" : {
+        "id" : "the-hindu", 
+        "name" : "The Hindu"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384609"), 
+    "keyword" : "Trump", 
+    "author" : "newton", 
+    "title" : "Trump vs Trump vs Trump", 
+    "description" : "The President Fights with Himself {{embed|t=TKT1_1522111910}}", 
+    "publishedAt" : ISODate("2018-03-27T00:53:25.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Liveleak.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38460a"), 
+    "keyword" : "Trump", 
+    "author" : "Tyler Durden", 
+    "title" : "Trump Bump... Or Trump Dump?", 
+    "description" : "Responsible? Or, irresponsible? Source: Townhall.com", 
+    "publishedAt" : ISODate("2018-02-08T20:40:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Zerohedge.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38460b"), 
+    "keyword" : "Trump", 
+    "author" : "ABC News", 
+    "title" : "When Trump lets Trump be Trump", 
+    "description" : "The TAKE with Rick Klein Staff letting Trump be Trump is one thing. But what happens when Trump really lets Trump be Trump? That’s the stuff of tirades about rapes of migrant women and asylum-seeker caravans, of military deployments to the border and out of S…", 
+    "publishedAt" : ISODate("2018-04-06T09:48:14.000+0000"), 
+    "source" : {
+        "id" : "abc-news", 
+        "name" : "ABC News"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38460c"), 
+    "keyword" : "Trump", 
+    "author" : "Clone", 
+    "title" : "Trump", 
+    "description" : "https://www.msn.com/en-us/news/politics/trump-said-he-would-charge-a-gunman-here’s-what-he’s-actually-done-in-the-face-of-danger/ar-BBJDAsu?ocid=spartanntp \n \nGetting called out by The Washington Post. \n \nEdit: I screwed up the title, can a mod change it to \"…", 
+    "publishedAt" : ISODate("2018-02-27T05:18:12.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Mmo-champion.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38460d"), 
+    "keyword" : "Trump", 
+    "author" : "RTÉ:Ireland", 
+    "title" : "Trump", 
+    "description" : "New York based journalist and film maker Patrick Farrelly joins Marian on the line.", 
+    "publishedAt" : ISODate("2018-02-18T12:00:00.000+0000"), 
+    "source" : {
+        "id" : "rte", 
+        "name" : "RTE"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38460e"), 
+    "keyword" : "Trump", 
+    "author" : "#B4DBUG5", 
+    "title" : "Trump?!", 
+    "description" : "February 28, 2018 at 04:35AM  ift.tt/2GOljOJ", 
+    "publishedAt" : ISODate("2018-02-27T17:37:07.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Flickr.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38460f"), 
+    "keyword" : "Trump", 
+    "author" : "P.M. Carpenter", 
+    "title" : "\"Trump.\"", 
+    "description" : "Two nights ago I received a call from the Democratic National Committee, which wanted to know what \"message\" Democratic candidates should hustle this year to regain control of Congress. I found this a trifle unsettling. If party professionals don't know...", 
+    "publishedAt" : ISODate("2018-02-08T17:08:52.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Pmcarpenter.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384610"), 
+    "keyword" : "Trump", 
+    "author" : "bluepillsheep", 
+    "title" : "Trump", 
+    "description" : "Trump's Border Wall Test Makes Liberal Minds Melt bluepillsheep.com/trumps-big-beautiful-border-wall-virtua...", 
+    "publishedAt" : ISODate("2018-02-28T21:22:06.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Flickr.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384611"), 
+    "keyword" : "Trump", 
+    "author" : "MPX", 
+    "title" : "'Trump Country' rejects Trump", 
+    "description" : "President Trump promised the GOP would win the Pennsylvania special election because he is so beloved in a district he won by 20 points. That's not how things went.", 
+    "publishedAt" : ISODate("2018-03-15T01:10:00.000+0000"), 
+    "source" : {
+        "id" : "msnbc", 
+        "name" : "MSNBC"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384612"), 
+    "keyword" : "Trump", 
+    "author" : "Wahrheitsministerium", 
+    "title" : "Trump criticizes Trump", 
+    "description" : "{{file|t=Cfr1o_1520959268}} \"The media has been speculating that I fired Rex Tillerson or that he would be leaving soon - FAKE NEWS! He's not leaving and while we disagree on certain subjects, (I call the final shots) we work well together and America is high…", 
+    "publishedAt" : ISODate("2018-03-13T16:42:21.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Liveleak.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384613"), 
+    "keyword" : "Trump", 
+    "author" : null, 
+    "title" : "Letting Trump Be Trump", 
+    "description" : "If this is \"chaos,\" let us have more of it.", 
+    "publishedAt" : ISODate("2018-03-25T04:49:32.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Pjmedia.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384614"), 
+    "keyword" : "Trump", 
+    "author" : "newton", 
+    "title" : "Trump Trip Trump", 
+    "description" : "Donnie is tripping, retreating into his own mind... you won't believe what he finds! Won't you join him on his journey? (coulden't resist using a clickbait descriptor) {{embed|t=azTct_1524131678}}", 
+    "publishedAt" : ISODate("2018-04-19T09:54:57.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Liveleak.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384615"), 
+    "keyword" : "Trump", 
+    "author" : "Nick Tell", 
+    "title" : "Can the Trump Economy Trump Trump?", 
+    "description" : "President Trump in the Oval Office after signing directives to impose tariffs, January 23, 2018. (Jonathan Ernst/Reuters) Editor’s Note : The following piece originally appeared in City Journal. It is reprinted here with permission. P resident Trump’s critics…", 
+    "publishedAt" : ISODate("2018-01-24T09:00:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Nationalreview.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384616"), 
+    "keyword" : "Trump", 
+    "author" : "Joel Kotkin", 
+    "title" : "Can the Trump Economy Trump Trump?", 
+    "description" : "Editor’s Note: The following piece originally appeared in City Journal. It is reprinted here with permission.\n\n\n\tPresident Trump’s critics find it hard to give him credit for anything, especially given his extraordinary boastfulness. Yet Trump’s economic poli…", 
+    "publishedAt" : ISODate("2018-01-24T09:00:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Nationalreview.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384617"), 
+    "keyword" : "Trump", 
+    "author" : "Jenna Johnson", 
+    "title" : "Trump claims GOP memo totally vindicates 'Trump'", 
+    "description" : "President Trump said Saturday morning that a disputed four-page House Intelligence Committee memo, composed by Republicans and declassified by him on Friday, \"totally vindicates 'Trump'” in an FBI investigation into Russian interference in the 2016 election, …", 
+    "publishedAt" : ISODate("2018-02-03T15:19:00.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Chicagotribune.com"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384618"), 
+    "keyword" : "Trump", 
+    "author" : null, 
+    "title" : "Fmr. Trump aide: Donald Trump \"screws everyone\"", 
+    "description" : "On the day Bob Mueller obtained a guilty plea from a lawyer in the Russia probe, former Trump campaign aide Sam Nunberg, who was cited 19 times in ‘Fire and Fury’, tells Ari Melber he’s “worried” about Trump’s own lawyer Michael Cohen. Nunberg says for the fi…", 
+    "publishedAt" : ISODate("2018-02-21T01:00:19.000+0000"), 
+    "source" : {
+        "id" : "msnbc", 
+        "name" : "MSNBC"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a384619"), 
+    "keyword" : "Trump", 
+    "author" : "Michael Nelson, Michael Nelson", 
+    "title" : "Trump Is Trump: Yesterday, Today, and Tomorrow", 
+    "description" : "His real estate background isn’t helping him govern.", 
+    "publishedAt" : ISODate("2018-02-18T21:21:58.000+0000"), 
+    "source" : {
+        "id" : null, 
+        "name" : "Historynewsnetwork.org"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38461a"), 
+    "keyword" : "Trump", 
+    "author" : "http://www.dailymail.co.uk/home/search.html?s=&authornamef=Afp, By Afp", 
+    "title" : "Trump denies kissing receptionist at Trump Tower", 
+    "description" : "President Donald Trump on Tuesday denied allegations by a former receptionist that he had kissed her without her consent in an elevator lobby of Trump Tower,...", 
+    "publishedAt" : ISODate("2018-02-20T18:01:35.000+0000"), 
+    "source" : {
+        "id" : "daily-mail", 
+        "name" : "Daily Mail"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38461b"), 
+    "keyword" : "Trump", 
+    "author" : "Ed Kilgore", 
+    "title" : "Trump Being Trump Makes Him Less Popular", 
+    "description" : "The GOP has an unusually acute problem in mobilizing a party base that glories in Trumpian outrages, without frightening the rest of the country.", 
+    "publishedAt" : ISODate("2018-02-27T22:16:52.000+0000"), 
+    "source" : {
+        "id" : "new-york-magazine", 
+        "name" : "New York Magazine"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc08de2a58baa52a38461c"), 
+    "keyword" : "Trump", 
+    "author" : "Heidi Przybyla", 
+    "title" : "Skeptics on Trump infrastructure plan include Trump", 
+    "description" : "The White House is preparing to release an infrastructure plan but it's still unclear whether Trump supports its core concept of public-private partnerships.", 
+    "publishedAt" : ISODate("2018-02-09T14:05:08.000+0000"), 
+    "source" : {
+        "id" : "nbc-news", 
+        "name" : "NBC News"
+    }, 
+    "__v" : NumberInt(0)
+}

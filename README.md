@@ -11,6 +11,7 @@
 - MongoDB server - ssh -i saurabh_aws.pem ubuntu@52.41.194.58
 - React server - ssh -i saurabh_aws.pem ec2-user@34.217.148.65
 - saurabh_aws.pem - available in config folder
+- Jupyter notebooks  - http://34.214.41.107:8888/
 
 
 #### Data Collection
@@ -31,7 +32,7 @@
     1. Tokenize the strings to form a bag of words and extract the most recurring NNP (Proper Noun - Singlular) and NNPs (Proper Noun - Plural) 
     2. Use some (Stanford NER) named entity recognizer (or build one) to extract the named entities and aggregate/sort them based on no. of occurences.
      
-     - data/data_process.py - to fetch top 5 frequent named-entities (uses nltk) and approach (i.) above 
+     - data/getKeyword.py - to fetch top 5 frequent named-entities (uses nltk) and approach (i.) above 
     
     Todo - Approach (ii.) if time allows.     
 
@@ -86,7 +87,11 @@ config/config.json
 
 2. Put all your code, along with the MongoDB collection, in a GitHub repository and share the link with us. Also, maintain a README.md explaining your codebase and the approach you followed.
 
-
+    - db_collection 
+        - tweets - in csv and json format
+        - news - in csv and json format
+        - keywords - in csv and json format
+ 
 Help links:
 https://stackoverflow.com/questions/29753618/find-most-repeated-phrase-on-huge-text
 Mongodb documentation

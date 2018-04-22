@@ -1,0 +1,40 @@
+{ 
+    "_id" : ObjectId("5adc07988fb30fa4c78bc95c"), 
+    "keyword" : "@"
+}
+{ 
+    "_id" : ObjectId("5adc07988fb30fa4c78bc95d"), 
+    "keyword" : "RT"
+}
+{ 
+    "_id" : ObjectId("5adc07988fb30fa4c78bc95e"), 
+    "keyword" : "Trump"
+}
+{ 
+    "_id" : ObjectId("5adc07998fb30fa4c78bc95f"), 
+    "keyword" : "May"
+}
+{ 
+    "_id" : ObjectId("5adc07998fb30fa4c78bc960"), 
+    "keyword" : "RealJamesWoods"
+}
+{ 
+    "_id" : ObjectId("5adc07998fb30fa4c78bc961"), 
+    "keyword" : "Brexit"
+}
+{ 
+    "_id" : ObjectId("5adc07998fb30fa4c78bc962"), 
+    "keyword" : "KunjaloD"
+}
+{ 
+    "_id" : ObjectId("5adc079a8fb30fa4c78bc963"), 
+    "keyword" : "BBC"
+}
+{ 
+    "_id" : ObjectId("5adc079a8fb30fa4c78bc964"), 
+    "keyword" : "Politics"
+}
+{ 
+    "_id" : ObjectId("5adc079a8fb30fa4c78bc965"), 
+    "keyword" : "Theresa"
+}

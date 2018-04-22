@@ -30,7 +30,7 @@ var client = new Twitter({
 
 
 // You can also get the stream in a callback if you prefer.
-client.stream('statuses/filter', {track: 'technology'}, function(stream) {
+client.stream('statuses/filter', {track: 'politics'}, function(stream) {
     stream.on('data', function(event) {
         Tweet.count(function (err, count) {
            if(err){

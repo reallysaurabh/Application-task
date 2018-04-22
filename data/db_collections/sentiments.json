@@ -1,0 +1,72 @@
+{ 
+    "_id" : ObjectId("5adc3c94501816b2c40328df"), 
+    "keyword" : "Trump", 
+    "twitterPolarity" : "neutral", 
+    "twitterPolarityConfidence" : 0.8269824385643005, 
+    "newsPolarity" : "neutral", 
+    "newsPolarityConfidence" : 0.6938340663909912, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc3c94501816b2c40328e0"), 
+    "keyword" : "KunjaloD", 
+    "twitterPolarity" : "positive", 
+    "twitterPolarityConfidence" : 0.9709439277648926, 
+    "newsPolarity" : "positive", 
+    "newsPolarityConfidence" : 0.5100715861483508, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc3c94501816b2c40328e1"), 
+    "keyword" : "Brexit", 
+    "twitterPolarity" : "neutral", 
+    "twitterPolarityConfidence" : 0.8273270130157471, 
+    "newsPolarity" : "positive", 
+    "newsPolarityConfidence" : 0.9302167296409607, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc3c94501816b2c40328e2"), 
+    "keyword" : "May", 
+    "twitterPolarity" : "positive", 
+    "twitterPolarityConfidence" : 0.7600215077400208, 
+    "newsPolarity" : "neutral", 
+    "newsPolarityConfidence" : 0.9994872808456421, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc3c94501816b2c40328e3"), 
+    "keyword" : "Politics", 
+    "twitterPolarity" : "negative", 
+    "twitterPolarityConfidence" : 0.9151880145072937, 
+    "newsPolarity" : "neutral", 
+    "newsPolarityConfidence" : 0.6367602944374084, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc3c94501816b2c40328e4"), 
+    "keyword" : "BBC", 
+    "twitterPolarity" : "positive", 
+    "twitterPolarityConfidence" : 0.6338891386985779, 
+    "newsPolarity" : "positive", 
+    "newsPolarityConfidence" : 0.6641727685928345, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc3c94501816b2c40328e5"), 
+    "keyword" : "Theresa", 
+    "twitterPolarity" : "positive", 
+    "twitterPolarityConfidence" : 0.7600215077400208, 
+    "newsPolarity" : "positive", 
+    "newsPolarityConfidence" : 0.5732558369636536, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5adc3c94501816b2c40328e6"), 
+    "keyword" : "RealJamesWoods", 
+    "twitterPolarity" : "negative", 
+    "twitterPolarityConfidence" : 0.7190148830413818, 
+    "newsPolarity" : "positive", 
+    "newsPolarityConfidence" : 0.792926549911499, 
+    "__v" : NumberInt(0)
+}

@@ -6,21 +6,26 @@
 
 1. Set up a web application on Heroku or Digital Ocean Droplet with a user interface where we can input a named-entity and get the comparison between the news and twitter sentiments as an output.
     
-    The App is an API driven architecture where an api is deployed on a server and the front end is written is React.
-    
+   - The application is a nodejs, expressjs api that handles the data and sends it to the front end in JSON format. API fetches real time tweets using [Twitter Search Api](https://developer.twitter.com/en/docs/tweets/search/overview) and the [News Everything API](https://newsapi.org/docs/endpoints/everything). For sentiment analysis, [Aylien's Sentiment Ananlysis](https://docs.aylien.com/textapi/endpoints/#sentiment-analysis) api is used. 
+   - The front end is written in React and present in the front-end directory. I have used the create-react-app package to start with boilerplate code.
+        
     API doc:
     
     - POST | /tweet/:keyword | - to fetch top 5 tweets and return their sentiments. 
     - POST | /news/:keyword  | - to fetch top 5 news articles and return their sentiments.
-     
-    I have used pm2 to monitor the app and restart it in case of failure.
-
-    ##### Deployments
     
-    1. API
-    2. MongoDB server
-    3. Front End
-    4. Data Collection and Visualization
+    Front End Snapshots:
+    
+    By default it shows result based on the keyword: "technology"
+    [alt default state](screenshots/a.png)
+    
+    The result changes when you enter a keyword: "politics"
+    [alt search state](screenshots/b.png)     
+
+##### Deployments
+- The api and front end are deployed on different servers and data is transferred/received using AJAX requests.
+- API - is served using bin/www and pm2 for monitoring and logging.
+- Front End - a production build of react is served using nginx server.
  
 #### Help links:
  - [Stack Overflow](https://stackoverflow.com)

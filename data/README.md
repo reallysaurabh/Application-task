@@ -14,6 +14,11 @@
 - Sign up for an account on [News api](https://newsapi.org/) to get your own:
     - apikey
     
+- Sign up for an account on [Aylien api](https://aylien.com) to get your own:
+    - application id
+    - application name
+    - application key
+
 - Spin up an EC2 server (if using AWS) and setup Mongodb community edition on that server. I am using an Ubuntu 16.04 server.
   - [Follow these instructions](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
   - Enable authorization on the mongodb server and change bind ip to 0.0.0.0 to make it accessible form anywhere. 

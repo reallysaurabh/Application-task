@@ -14,34 +14,6 @@
 - Jupyter notebooks  - http://34.214.41.107:8888/
 
 
-#### Data Collection
-
-1. Collect a random sample of 10K tweets using the Twitter API and store them in a MongoDB instance.
-    
-    Using twitter streaming api to collect tweets
-    using a script and storing it in mongodb.
-    
-    - data/tweets.js - to fetch the data from twitter stream api
-    - models/Tweet.js - object relational mapping for Tweets
-    
-2. From these collected tweets, parse the 5 most frequently occurring named-entities (can be a name, person, location, product etc.).
-
-    Using nltk and pymongo with Python to extract top 5 named-entities.
-    
-    Approach - 
-    1. Tokenize the strings to form a bag of words and extract the most recurring NNP (Proper Noun - Singlular) and NNPs (Proper Noun - Plural) 
-    2. Use some (Stanford NER) named entity recognizer (or build one) to extract the named entities and aggregate/sort them based on no. of occurences.
-     
-     - data/getKeyword.py - to fetch top 5 frequent named-entities (uses nltk) and approach (i.) above 
-    
-    Todo - Approach (ii.) if time allows.     
-
-3. Now, collect the latest news from various news source APIs featuring the named-entities you got from Step 2 (use at least one other API/library other than Twitter's to collect this data).
-    
-   Before proceeding, store the detected keywords from step 2. in mongodb and fetch them to get related news
-   
-   - data/news.js - fetches news from the [News api](https://newsapi.org/) based on the keyword.
-    
 Keywords from Step 2
 --------------------
 

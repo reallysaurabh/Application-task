@@ -6,12 +6,6 @@ const Sentiments = require("../models/Sentiment");
 var async = require('async');
 var axios = require('axios');
 
-var AYLIENTextAPI = require('aylien_textapi');
-var textapi = new AYLIENTextAPI({
-    application_id: config.aylien.applicationId,
-    application_key: config.aylien.applicationKey
-});
-
 // load mongoose package
 var mongoose = require('mongoose');
 mongoose.Promise = global.Promise;

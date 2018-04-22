@@ -1,0 +1,22 @@
+{
+  "twitter": {
+    "consumerKey": "xxxxxxxxxxxx",
+    "consumerSecret": "xxxxxxxxxxxx",
+    "accessTokenKey": "xxxxxxxxxxxx",
+    "accessTokenSecret": "xxxxxxxxxxxx"
+  },
+  "newsapi": {
+    "apiKey": "xxxxxxxxxxxx"
+  },
+  "mongodb": {
+    "host": "xxxxxxxxxxxx",
+    "port": "xxxxxxxxxxxx",
+    "username": "xxxxxxxxxxxx",
+    "password": "xxxxxxxxxxxxx"
+  },
+  "aylien": {
+    "applicationId": "xxxxxxxxxxxx",
+    "applicationKey": "xxxxxxxxxxxx",
+    "applicationName": "xxxxxxxxxxxx"
+  }
+}

@@ -27,8 +27,8 @@
 2. You should also perform temporal, spatial and content analysis on the collected data, to answer questions such as Who posted the data, What was it about, When was it posted, from Where was it posted etc.
    
    - [x] What was it about? - A wordcloud formed using news and twitter data. 
-   - [ ] Where was it posted?
-   - [ ] When was it posted?
+   - [x] Where was it posted?
+   - [x] When was it posted?
    - [ ] Who posted it?
     
 3. Report these results you found in the steps 5 & 6 using graphs. Brownie points for cool interactive visualisations.

@@ -40,5 +40,5 @@
  - [Mongodb Documentation](https://docs.mongodb.com)
  - [Mongoose ODM](http://mongoosejs.com/)
  - [Pymongo Documentation](https://api.mongodb.com/python/current/)
-
+ - Chloropeth Maps - https://plot.ly/python/choropleth-maps/
  

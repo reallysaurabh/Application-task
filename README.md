@@ -15,16 +15,18 @@
         
     API doc:
     
-    - POST | /tweet/:keyword | - to fetch top 5 tweets and return their sentiments. 
-    - POST | /news/:keyword  | - to fetch top 5 news articles and return their sentiments.
+    | Verb  | Route            | Description                                               |
+    | :---: |:----------------:| :--------------------------------------------------------:|
+    | POST  | /tweet/:keyword  | to fetch top 5 tweets and return their sentiments.        |
+    | POST  | /news/:keyword   | to fetch top 5 news articles and return their sentiments. |
     
     Front End Snapshots:
     
     By default it shows result based on the keyword: "technology"
-    [alt default state](screenshots/a.png)
+    ![alt default state](screenshots/a.png)
     
     The result changes when you enter a keyword: "politics"
-    [alt search state](screenshots/b.png)     
+    ![alt search state](screenshots/b.png)     
 
 ##### Deployments
 - The api and front end are deployed on different servers and data is transferred/received using AJAX requests.

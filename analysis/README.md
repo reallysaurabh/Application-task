@@ -23,12 +23,35 @@
     Use [Aylien](https://aylien.com) api in document mode for sentiment analysis of created docs. Write the data back to mongodb (Sentiment Collection in data/db_collections).
 
    - Open [Jupyter Notebooks](http://34.214.41.107:8888/) to view the results.
+   
+   ![alt ananlysis](screenshots/ananlysis.png)
     
 2. You should also perform temporal, spatial and content analysis on the collected data, to answer questions such as Who posted the data, What was it about, When was it posted, from Where was it posted etc.
    
    - [x] What was it about? - A wordcloud formed using news and twitter data. 
+   
+    - Twitter Wordcloud 
+    ![alt tweets wordcloud](screenshots/twitter_wordcloud.png)
+   
+    - News Wordcloud
+    ![alt news wordcloud](screenshots/news_wordcloud.png)
+    
    - [x] Where was it posted?
+   
+    - Tweets
+    ![alt tweets worldmap](screenshots/tweet_countrywise.png)
+    
    - [x] When was it posted?
-   - [ ] Who posted it?
+    
+    - Tweets
+    ![alt tweets timeline](screenshots/tweets_timeline.png)
+    
+    - News
+    ![alt news timeline](screenshots/news_timeline.png)
+        
+   - [x] Who posted it?
+   
+    - News
+    ![alt news sources](screenshots/news_sources.png)
     
 3. Report these results you found in the steps 5 & 6 using graphs. Brownie points for cool interactive visualisations.

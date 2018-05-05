@@ -17,8 +17,8 @@ class App extends Component {
       success: false
     }
     axios.all([
-      axios.post('http://34.214.41.107:3000/tweet/technology'),
-      axios.post('http://34.214.41.107:3000/news/technology')
+      axios.post('http://34.208.20.22:3000/tweet/technology'),
+      axios.post('http://34.208.20.22:3000/news/technology')
     ])
     .then(axios.spread((tweetRes, newsRes) => {
       console.log(tweetRes);
@@ -43,8 +43,8 @@ class App extends Component {
   onNewSearch(keyword) {
 
     axios.all([
-      axios.post('http://34.214.41.107:3000/tweet/'+keyword),
-      axios.post('http://34.214.41.107:3000/news/'+keyword)
+      axios.post('http://34.208.20.22:3000/tweet/'+keyword),
+      axios.post('http://34.208.20.22:3000/news/'+keyword)
     ])
     .then(axios.spread((tweetRes, newsRes) => {
       console.log(tweetRes);
@@ -66,6 +66,8 @@ class App extends Component {
 
   }
 
+
+
   render() {
     const onNewSearch = _.debounce(term => {
       this.onNewSearch(term);
@@ -86,7 +88,31 @@ class App extends Component {
             <Detail data={this.state.news} />
           </div>
         </div>
+        <div className="container padding-top">
+          <div className="col-md-6 col-md-offset-1">
+            <h5>News wordcloud</h5><br />
+            <img className="img-responsive" alt="news wordcloud" src={require("./components/images/news_wordcloud.png")} />
+          </div>
+          <div className="col-md-6 col-md-offset-1">
+            <h5>Twitter wordcloud</h5><br />
+            <img className="img-responsive" alt="twitter wordcloud" src={require("./components/images/twitter_wordcloud.png")} />
+          </div>
+          <div className="col-md-6 col-md-offset-1">
+            <h5>News Timeline</h5><br />
+            <img className="img-responsive" alt="twitter wordcloud" src={require("./components/images/news_timeline.png")} />
+          </div>
+          <div className="col-md-6 col-md-offset-1">
+            <h5>Country wise tweets</h5><br />
+            <img className="img-responsive" alt="twitter wordcloud" src={require("./components/images/tweet_countrywise.png")} />
+          </div>
+          <div className="col-md-6 col-md-offset-1">
+            <h5>News Sources</h5><br />
+            <img className="img-responsive" alt="twitter wordcloud" src={require("./components/images/news_sources.png")} />
+          </div>
+        </div>
       </div>
+
+
     );
   }
 }

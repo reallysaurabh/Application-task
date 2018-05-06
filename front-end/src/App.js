@@ -99,15 +99,15 @@ class App extends Component {
           </div>
           <div className="col-md-6 col-md-offset-1">
             <h5>News Timeline</h5><br />
-            <img className="img-responsive" alt="twitter wordcloud" src={require("./components/images/news_timeline.png")} />
+            <iframe width="900" height="800" frameborder="0" scrolling="no" src="http://plot.ly/~saurabh3012/10.embed"></iframe>
           </div>
           <div className="col-md-6 col-md-offset-1">
             <h5>Country wise tweets</h5><br />
-            <img className="img-responsive" alt="twitter wordcloud" src={require("./components/images/tweet_countrywise.png")} />
+            <iframe width="900" height="800" frameborder="0" scrolling="no" src="http://plot.ly/~saurabh3012/15.embed"></iframe>
           </div>
           <div className="col-md-6 col-md-offset-1">
             <h5>News Sources</h5><br />
-            <img className="img-responsive" alt="twitter wordcloud" src={require("./components/images/news_sources.png")} />
+            <iframe width="900" height="800" frameborder="0" scrolling="no" src="http://plot.ly/~saurabh3012/17.embed"></iframe>
           </div>
         </div>
       </div>
